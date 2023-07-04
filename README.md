@@ -5,13 +5,6 @@
 
 Raspberry pi OS other kısmından Raspberry Pi OS Lite (64-bit) olan versiyonu Raspberry pi imaj yöneticisi ile kurun.
 Raspberrydeki kullanıcı adı mutlaka pi olmalı değiştirilirse çalışmayacaktır.
-
-
-![Alt text](/Images/Resim1.png?raw=true "Optional Title")
-![Alt text](/Images/Resim2.png?raw=true "Optional Title")
-![Alt text](/Images/Resim3.png?raw=true "Optional Title")
-![Alt text](/Images/Resim4.png?raw=true "Optional Title")
-
 pi kullanıcısının şifresini girin daha sonra lazım olacak not alın.
 Bu ayarlar wifiye otomatik bağlanması için yapılmıştır. ssh ile bağlantı almak için yapılmaktadır. Monitörlü kurulumda wifiye monitör ile bağlanılabilir.  
 ### Gsm Modülün Kurulması
